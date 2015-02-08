@@ -37,5 +37,11 @@
         android:required="true"
         />
 
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="17"
+        android:maxSdkVersion="21"
+        />
+
 
 </manifest>
