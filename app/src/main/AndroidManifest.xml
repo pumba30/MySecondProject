@@ -53,7 +53,13 @@
 
         <activity
             android:name=".SingleTouchTest"
-            android:label="@string/title_activity_life_cycle_test"
+            android:label="@string/title_SingleTouchTest"
+            android:configChanges="keyboard|keyboardHidden">
+        </activity>
+
+        <activity
+            android:name=".MultiTouchTest"
+            android:label="@string/title_MultiTouchTest"
             android:configChanges="keyboard|keyboardHidden">
         </activity>
 

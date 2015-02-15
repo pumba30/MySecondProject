@@ -4,6 +4,7 @@
     <string name="DebugTrue">true</string>
     <string name="DebugFalse">false</string>
     <string name="title_activity_life_cycle_test">Life Cycle Test</string>
-
+    <string name="title_MultiTouchTest">Multi Touch Test</string>
+    <string name="title_SingleTouchTest">Single Touch Test</string>
     <string name="hello_world">Hello world!</string>
 </resources>
