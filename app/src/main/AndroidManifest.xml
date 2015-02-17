@@ -23,7 +23,8 @@
         android:required="true"/>
 
     <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
-    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"
+    <uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
         android:maxSdkVersion="18"/>
 
     <application
@@ -60,6 +61,24 @@
         <activity
             android:name=".MultiTouchTest"
             android:label="@string/title_MultiTouchTest"
+            android:configChanges="keyboard|keyboardHidden">
+        </activity>
+
+        <activity
+            android:name=".KeyTest"
+            android:label="@string/title_KeyTest"
+            android:configChanges="keyboard|keyboardHidden">
+        </activity>
+
+        <activity
+            android:name=".AccelerometerTest"
+            android:label="@string/title_AccelerometerTest"
+            android:configChanges="keyboard|keyboardHidden">
+        </activity>
+
+        <activity
+            android:name=".AssetsTest"
+            android:label="@string/title_AssetsTest"
             android:configChanges="keyboard|keyboardHidden">
         </activity>
 

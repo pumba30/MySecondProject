@@ -6,5 +6,8 @@
     <string name="title_activity_life_cycle_test">Life Cycle Test</string>
     <string name="title_MultiTouchTest">Multi Touch Test</string>
     <string name="title_SingleTouchTest">Single Touch Test</string>
+    <string name="title_KeyTest">Key Test</string>
+    <string name="title_AccelerometerTest">Accelerometer Test</string>
+    <string name="title_AssetsTest">Asset Test</string>
     <string name="hello_world">Hello world!</string>
 </resources>

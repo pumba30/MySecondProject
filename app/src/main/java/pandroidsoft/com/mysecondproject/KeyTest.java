@@ -46,6 +46,6 @@ public class KeyTest extends Activity implements View.OnKeyListener {
 
         if (event.getKeyCode() == KeyEvent.KEYCODE_BACK) {
             return false;
-        } else return false;
+        } else return true;
     }
 }
