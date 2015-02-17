@@ -27,6 +27,7 @@
         android:name="android.permission.READ_EXTERNAL_STORAGE"
         android:maxSdkVersion="18"/>
 
+
     <application
         android:allowBackup="true"
         android:debuggable="true"
@@ -79,6 +80,18 @@
         <activity
             android:name=".AssetsTest"
             android:label="@string/title_AssetsTest"
+            android:configChanges="keyboard|keyboardHidden">
+        </activity>
+
+        <activity
+            android:name=".ExternalStorageTest"
+            android:label="@string/title_ExternalStorageTest"
+            android:configChanges="keyboard|keyboardHidden">
+        </activity>
+
+        <activity
+            android:name=".SoundPoolTest"
+            android:label="@string/title_SoundPoolTest"
             android:configChanges="keyboard|keyboardHidden">
         </activity>
 

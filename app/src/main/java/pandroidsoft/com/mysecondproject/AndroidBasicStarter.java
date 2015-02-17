@@ -15,7 +15,7 @@ import android.widget.ListView;
 // здесь создаим запуск тестовых активностей
 public class AndroidBasicStarter extends ListActivity {
     String tests[] = {"LifeCycleTest", "SingleTouchTest", "MultiTouchTest", "KeyTest",
-            "AccelerometerTest", "AssetsTest", " ExternalStorageTest", "SoundPoolTest",
+            "AccelerometerTest", "AssetsTest", "ExternalStorageTest", "SoundPoolTest",
             "MediaPlayerTest", "FullScreenTest", "RenderViewTest", "ShapeTest",
             "BitmapTest", "FontTest", "SurfaceViewTest"};
 
