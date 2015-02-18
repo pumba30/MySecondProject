@@ -11,5 +11,9 @@
     <string name="title_AssetsTest">Asset Test</string>
     <string name="title_ExternalStorageTest">External Storage Test</string>
     <string name="title_SoundPoolTest">Sound Pool Test</string>
+    <string name="title_MediaPlayerTest">Media Player Test</string>
+    <string name="title_FullScreenTest">Full Screen Test</string>
+    <string name="title_RenderViewTest">Render View Test</string>
+    <string name="title_ShapeTest"> Shape Test</string>
     <string name="hello_world">Hello world!</string>
 </resources>
