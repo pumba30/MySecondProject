@@ -120,6 +120,12 @@
             android:configChanges="keyboard|keyboardHidden">
         </activity>
 
+        <activity
+            android:name=".BitmapTest"
+            android:label="@string/title_ShapeTest"
+            android:configChanges="keyboard|keyboardHidden">
+        </activity>
+
     </application>
 
 </manifest>

@@ -14,6 +14,7 @@
     <string name="title_MediaPlayerTest">Media Player Test</string>
     <string name="title_FullScreenTest">Full Screen Test</string>
     <string name="title_RenderViewTest">Render View Test</string>
-    <string name="title_ShapeTest"> Shape Test</string>
+    <string name="title_ShapeTest">Shape Test</string>
+    <string name="title_BitmapTest">BitmapTestt</string>
     <string name="hello_world">Hello world!</string>
 </resources>

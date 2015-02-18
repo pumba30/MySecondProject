@@ -1,6 +1,6 @@
 package pandroidsoft.com.mysecondproject;
 
-import android.app.ActionBar;
+
 import android.app.Activity;
 import android.content.Context;
 import android.graphics.Canvas;
@@ -25,7 +25,7 @@ public class ShapeTest extends Activity {
         }
 
         protected void onDraw(Canvas canvas) {
-            canvas.drawRGB(255, 255, 255);
+            canvas.drawRGB(250, 250, 255);
             paint.setColor(Color.RED);
             canvas.drawLine(0, 0, canvas.getWidth() - 1, canvas.getHeight() - 1, paint);
 
