@@ -126,6 +126,16 @@
             android:configChanges="keyboard|keyboardHidden">
         </activity>
 
+        <activity
+            android:name=".FontTest"
+            android:configChanges="keyboard|keyboardHidden">
+        </activity>
+
+        <activity
+            android:name=".SurfaceViewTest"
+            android:configChanges="keyboard|keyboardHidden">
+        </activity>
+
     </application>
 
 </manifest>
