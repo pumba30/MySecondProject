@@ -1,4 +1,4 @@
-package impl;
+package pandroidsoft.com.mysecondproject.impl;
 
 import android.content.Context;
 import android.hardware.Sensor;

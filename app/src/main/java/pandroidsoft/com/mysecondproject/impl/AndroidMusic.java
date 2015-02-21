@@ -1,4 +1,4 @@
-package impl;
+package pandroidsoft.com.mysecondproject.impl;
 
 import android.content.res.AssetFileDescriptor;
 import android.media.MediaPlayer;
