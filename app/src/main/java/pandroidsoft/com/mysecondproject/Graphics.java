@@ -35,7 +35,7 @@ public interface Graphics {
 
     public void drawPixmap(Pixmap pixmap, int x, int y);
 
-    public int getWhidth(); // возвращает ширину фреймбуфера
+    public int getWidth(); // возвращает ширину фреймбуфера
 
     public int getHeight(); //возврщает длину фреймбуфера
 

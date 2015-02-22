@@ -49,6 +49,6 @@ public interface Input {
     //с посследнего раза, когда мы вызывали эти методы
     public List<KeyEvent> getKeyEvent();
 
-    public List<TouchEvent> getTouchEvent();
+    public List<TouchEvent> getTouchEvents();
 
 }
